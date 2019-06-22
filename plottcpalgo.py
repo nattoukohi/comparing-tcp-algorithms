@@ -185,4 +185,4 @@ if __name__ == '__main__':
     print "----- Plotting cwnd of all algorithms -----"
     plot_cwnd_all_algorithms()
     print "----- Plotting cwnd, ACK, and RTT of each algorithm -----"
-    plot_cwnd_all_algorithms()
+    plot_cwnd_ack_rtt_each_algorithm()
